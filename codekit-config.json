@@ -14,17 +14,14 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/coffee\/main.coffee" : {
+    "\/stylesheets\/main.css" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/coffee\/main.coffee",
-      "checkOutputStyle" : 0,
-      "minifyOutput" : 0,
-      "outputAbbreviatedPath" : "\/javascript\/main.js",
-      "outputStyle" : 1,
-      "fileType" : 32
+      "inputAbbreviatedPath" : "\/stylesheets\/main.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/sass\/font-awesome\/_rotated-flipped.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -38,17 +35,17 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/sass\/ie.sass" : {
+    "\/coffee\/main.coffee" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/sass\/ie.sass",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/stylesheets\/ie.css",
-      "fileType" : 2,
-      "debugStyle" : 0
+      "inputAbbreviatedPath" : "\/coffee\/main.coffee",
+      "checkOutputStyle" : 0,
+      "minifyOutput" : 0,
+      "outputAbbreviatedPath" : "\/javascript\/main.js",
+      "outputStyle" : 1,
+      "fileType" : 32
     },
     "\/stylesheets\/print.css" : {
       "ignoreWasSetByUser" : 0,
@@ -163,18 +160,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/sass\/font-awesome\/_fixed-width.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/sass\/font-awesome\/_fixed-width.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/stylesheets\/_fixed-width.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
     "\/config.rb" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -183,6 +168,18 @@
       "inputAbbreviatedPath" : "\/config.rb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 32768
+    },
+    "\/sass\/font-awesome\/_larger.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/sass\/font-awesome\/_larger.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/stylesheets\/_larger.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
     "\/sass\/font-awesome\/_variables.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -208,15 +205,15 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/sass\/font-awesome\/_larger.scss" : {
+    "\/sass\/font-awesome\/_fixed-width.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/sass\/font-awesome\/_larger.scss",
+      "inputAbbreviatedPath" : "\/sass\/font-awesome\/_fixed-width.scss",
       "outputStyle" : 0,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/stylesheets\/_larger.css",
+      "outputAbbreviatedPath" : "\/stylesheets\/_fixed-width.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -232,15 +229,6 @@
       "fileType" : 2,
       "debugStyle" : 0
     },
-    "\/stylesheets\/screen.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/stylesheets\/screen.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
     "\/sass\/print.sass" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -253,6 +241,15 @@
       "fileType" : 2,
       "debugStyle" : 0
     },
+    "\/stylesheets\/screen.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/stylesheets\/screen.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
     "\/index.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -261,6 +258,18 @@
       "inputAbbreviatedPath" : "\/index.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/sass\/font-awesome\/_spinning.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/sass\/font-awesome\/_spinning.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/stylesheets\/_spinning.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
     "\/index.haml" : {
       "inputAbbreviatedPath" : "\/index.haml",
@@ -278,18 +287,6 @@
       "fileType" : 256,
       "outputStyle" : 0
     },
-    "\/sass\/font-awesome\/_spinning.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/sass\/font-awesome\/_spinning.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/stylesheets\/_spinning.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
     "\/sass\/_base.sass" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -302,14 +299,17 @@
       "fileType" : 2,
       "debugStyle" : 0
     },
-    "\/stylesheets\/main.css" : {
+    "\/sass\/ie.sass" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/stylesheets\/main.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
+      "inputAbbreviatedPath" : "\/sass\/ie.sass",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/stylesheets\/ie.css",
+      "fileType" : 2,
+      "debugStyle" : 0
     }
   },
   "manualImportLinks" : [
