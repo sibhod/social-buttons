@@ -1,0 +1,49 @@
+@import base
+
+body
+  margin: 0px
+
+.socialbuttons
+  +display-box
+  +box-orient( horizontal )
+  +box-align( stretch )
+  +box-direction( normal )
+  margin-top: 100px
+
+
+.socialbox
+  +border-radius( 4px )
+  +box-flex( 1 )
+  max-width: $box-max-width
+  max-height: $box-max-height
+  cursor: pointer
+  color: white
+  
+  text-align: center
+  margin-left: 4px
+  margin-right: 0px
+  font-family: Open Sans
+  font-size: 0.5em
+  text-transform: uppercase
+  line-height: 4.5em
+
+  i
+    font-size: 3em
+    line-height: 1.25em
+    margin-left: -0.25em
+    padding-right: 0.25em
+  
+  &.email
+    background-color: $email-color
+  &.facebook
+    background-color: $facebook-color
+  &.twitter
+    background-color: $twitter-color
+  &.gplus
+    background-color: $gplus-color 
+  &.pinterest
+    background-color: $pinterest-color
+  &.instagram
+    background-color: $instagram-color
+  &.youtube
+    background-color: $youtube-color
